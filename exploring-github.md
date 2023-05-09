@@ -8,7 +8,7 @@ hello world.
 
 # Best Fruits
 
-1. Oranges
-2. Strawberries
-3. Bananas
-4. Blueberries
+* Oranges
+* Strawberries
+* Bananas
+* Blueberries
